@@ -1,13 +1,12 @@
 <!DOCTYPE html>
-<html>
-<body>
+   <body>
 
 
-   <img src="End Walls.png" alt="End Walls" width="460" height="345">
+      <img src="/End Walls.png" alt="End Walls" width="460" height="345">
 
-   <img src="Nether Enclosure.png" alt="Nether Enclosure" width="460" height="345">
+      <img src="/Nether Enclosure.png" alt="Nether Enclosure" width="460" height="345">
 
-   <img src="Storage Center Beta Version.png" alt="Storage Center Beta Version" width="460" height="345">
+      <img src="/Storage Center Beta Version.png" alt="Storage Center Beta Version" width="460" height="345">
 
-</body>
+   </body>
 </html>
